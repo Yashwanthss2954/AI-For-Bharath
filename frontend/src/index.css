@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@400;500;600;700&family=Spectral:wght@500;600;700&display=swap');
+
+:root {
+  --bg-top: #eaf4f9;
+  --bg-bottom: #f9f6ef;
+  --text-primary: #102b3f;
+  --text-muted: #4f6c7f;
+  --accent-teal: #0c789b;
+  --accent-saffron: #cf8a2b;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+  min-width: 320px;
+  color: var(--text-primary);
+  font-family: 'Sora', sans-serif;
+  background: linear-gradient(180deg, var(--bg-top), var(--bg-bottom));
+}
+
+h1,
+h2,
+h3,
+h4 {
+  font-family: 'Spectral', serif;
+  letter-spacing: 0.01em;
+  color: #0e2c41;
+}
