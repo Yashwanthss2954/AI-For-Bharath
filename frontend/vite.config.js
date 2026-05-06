@@ -10,6 +10,7 @@ export default defineConfig({
       'cartridges-kits-included-strengthening.trycloudflare.com',
       '.trycloudflare.com', // Allow all cloudflare tunnel subdomains
       'localhost',
+      'ai-for-bharath-1.onrender.com'
     ],
     proxy: {
       '/api': {
