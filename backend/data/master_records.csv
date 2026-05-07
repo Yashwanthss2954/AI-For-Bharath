@@ -1,7 +1,51 @@
 record_id,business_name,address,pincode,pan,gstin
-SHP-1,ABC Engineering Pvt Ltd,Peenya Indl Area Phase 2,560058,ABCDE1234F,29ABCDE1234F1Z5
-FAC-9,A B C Engineering Private Limited,Peenya Industrial Area II,560058,ABCDE1234F,
-LAB-4,Shakti Foods,Yeshwanthpur Main Road,560022,AAACX1111L,29AAACX1111L1Z2
-KSP-7,Shakthi Foods,Yeshwanthpur Rd,560022,,29AAACX1111L1Z2
-LAB-8,ABC Engg Works,Peenya Phase II,560058,,
-SHP-3,Nova Metals,Bommasandra,560099,AABCN2222K,
+SHP-001,ABC Engineering Pvt Ltd,Peenya Industrial Area Phase 2,560058,ABCDE1234F,29ABCDE1234F1Z5
+FAC-001,A B C Engineering Private Limited,Peenya Indl Area II,560058,ABCDE1234F,
+SHP-002,Shakti Foods,Yeshwanthpur Main Road,560022,AAACX1111L,29AAACX1111L1Z2
+KSP-001,Shakthi Foods Pvt Ltd,Yeshwanthpur Rd,560022,,29AAACX1111L1Z2
+SHP-003,Nova Metals,Bommasandra Industrial Area,560099,AABCN2222K,29AABCN2222K1Z3
+FAC-002,Nova Metals Pvt Ltd,Bommasandra Indl Estate,560099,AABCN2222K,
+SHP-004,Tech Solutions India,Whitefield Main Road,560066,AATTS3333M,29AATTS3333M1Z4
+KSP-002,Tech Solutions,Whitefield,560066,,29AATTS3333M1Z4
+SHP-005,Ramesh Trading Company,Mahatma Gandhi Road,560001,AABRT4444N,29AABRT4444N1Z5
+LAB-002,Ramesh Traders,MG Road,560001,AABRT4444N,
+SHP-006,Green Valley Textiles,Rajajinagar 2nd Block,560010,AAGVT5555P,29AAGVT5555P1Z6
+FAC-003,Green Valley Textile Mills,Rajajinagar Block 2,560010,AAGVT5555P,
+SHP-007,Mahesh Electronics,Jayanagar 4th Block,560041,AABME6666Q,29AABME6666Q1Z7
+KSP-003,Mahesh Electronics Store,Jayanagar 4th Blk,560041,,29AABME6666Q1Z7
+SHP-008,Bright Future School,Koramangala 5th Block,560095,AABFS7777R,29AABFS7777R1Z8
+SHP-009,Sunrise Bakery,Indiranagar 100 Feet Road,560038,AABSB8888S,29AABSB8888S1Z9
+LAB-003,Sunrise Bakers,100ft Rd Indiranagar,560038,AABSB8888S,
+SHP-010,Krishna Automobile Works,Mysore Road,560026,AABKA9999T,29AABKA9999T1ZA
+FAC-004,Krishna Auto Works Pvt Ltd,Mysore Rd,560026,AABKA9999T,
+SHP-011,Vijay Pharmaceuticals,Rajajinagar Indl Estate,560044,AABVP1111U,29AABVP1111U1ZB
+SHP-012,Digital Dreams IT Solutions,Electronic City Phase 1,560100,AABDD2222V,29AABDD2222V1ZC
+FAC-005,Digital Dreams,E-City Phase I,560100,,29AABDD2222V1ZC
+SHP-013,Royal Fashion Boutique,Malleshwaram 8th Cross,560003,AARFB3333W,29AARFB3333W1ZD
+SHP-014,Precision Tools Manufacturing,Peenya 3rd Phase,560058,AABPT4444X,29AABPT4444X1ZE
+FAC-006,Precision Tools Mfg,Peenya Phase III,560058,AABPT4444X,
+SHP-015,Golden Harvest Agro,Yelahanka New Town,560064,AABGH5555Y,29AABGH5555Y1ZF
+SHP-016,Metro Construction,Hebbal,560024,AABMC6666Z,29AABMC6666Z1ZG
+FAC-007,Metro Constructions Pvt Ltd,Hebbal Main Road,560024,AABMC6666Z,
+SHP-017,Lakshmi Traders,Chickpet Market,560053,AABLT7777A,29AABLT7777A1ZH
+SHP-018,Sapphire Jewelers,Commercial Street,560001,AABSJ8888B,29AABSJ8888B1ZI
+SHP-019,United Hardware Store,Shivajinagar Main Rd,560051,AABUH9999C,29AABUH9999C1ZJ
+SHP-020,Crystal Plastics,Peenya Phase IV,560058,AABCP1111D,29AABCP1111D1ZK
+SHP-021,Zenith Logistics,Yeshwanthpur,560022,AABZL2222E,29AABZL2222E1ZL
+SHP-022,Omega Chemicals,Rajajinagar Indl Area,560044,AABOC3333F,29AABOC3333F1ZM
+SHP-023,Titan Motors,Magadi Road,560023,AABTM4444G,29AABTM4444G1ZN
+SHP-024,Prime Healthcare Clinic,JP Nagar 2nd Phase,560078,AABPH5555H,29AABPH5555H1ZO
+SHP-025,Sterling Silver Exports,Banashankari 3rd Stage,560085,AABSS6666I,29AABSS6666I1ZP
+SHP-026,Phoenix Manufacturing,Bommasandra,560099,AABPM7777J,29AABPM7777J1ZQ
+SHP-027,Elite Garments,Gandhinagar,560009,AABEG8888K,29AABEG8888K1ZR
+SHP-028,Summit Engineering,Peenya 1st Phase,560058,AABSE9999L,29AABSE9999L1ZS
+SHP-029,Velocity Automotive,Tumkur Road,560022,AABVA1112M,29AABVA1112M1ZT
+SHP-030,Apex Solutions,Marathahalli,560037,AABAS2223N,29AABAS2223N1ZU
+LAB-004,Champion Foods,Yeshwanthpur,560022,AABCF8889T,29AABCF8889T2AA
+KSP-004,Skyline Builders,Hebbal,560024,AABSB9991U,29AABSB9991U2AB
+FAC-008,Harmony Textiles,Rajajinagar,560010,AABHT1123V,29AABHT1123V2AC
+LAB-008,Vijay Pharma Pvt Ltd,Rajajinagar Indl Area,560044,AABVP1111U,
+KSP-007,Lakshmi Trading Company,Chickpet Main Rd,560053,AABLT7777A,
+FAC-011,Omega Chemical Works,Rajajinagar Industrial Estate,560044,AABOC3333F,
+LAB-009,Titan Motor Service,Magadi Main Road,560023,AABTM4444G,
+KSP-008,United Hardware,Shivajinagar Market,560051,AABUH9999C,
