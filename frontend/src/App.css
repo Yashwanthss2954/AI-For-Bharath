@@ -329,6 +329,27 @@
   overflow-x: auto;
 }
 
+/* Custom scrollbar styling */
+.table-wrap::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.table-wrap::-webkit-scrollbar-track {
+  background: rgba(6, 36, 63, 0.05);
+  border-radius: 10px;
+}
+
+.table-wrap::-webkit-scrollbar-thumb {
+  background: linear-gradient(135deg, rgba(10, 122, 164, 0.6), rgba(196, 137, 40, 0.5));
+  border-radius: 10px;
+  transition: background 0.3s ease;
+}
+
+.table-wrap::-webkit-scrollbar-thumb:hover {
+  background: linear-gradient(135deg, rgba(10, 122, 164, 0.8), rgba(196, 137, 40, 0.7));
+}
+
 table {
   width: 100%;
   border-collapse: collapse;

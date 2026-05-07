@@ -265,7 +265,7 @@ function App() {
             <h3>Review Queue</h3>
             <span className="chip warning">{reviewQueue.length} Pending Cases</span>
           </div>
-          <div className="table-wrap">
+          <div className="table-wrap" style={{ maxHeight: '400px', overflowY: 'auto' }}>
             <table>
               <thead>
                 <tr>
@@ -349,7 +349,7 @@ function App() {
           <h3>UBID Search Results</h3>
           <span className="chip neutral">{ubids.length} matched entities</span>
         </div>
-        <div className="table-wrap">
+        <div className="table-wrap" style={{ maxHeight: '500px', overflowY: 'auto' }}>
           <table>
             <thead>
               <tr>
@@ -383,6 +383,7 @@ function App() {
             </tbody>
           </table>
         </div>
+      </section>
       </section>
     </div>
   )
