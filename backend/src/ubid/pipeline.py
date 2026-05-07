@@ -115,6 +115,10 @@ def build_ubids(df: pd.DataFrame, scored_pairs: pd.DataFrame) -> tuple[pd.DataFr
         comp_ids = sorted(comp)
         sub = df[df["record_id"].isin(comp_ids)]
 
+        # Skip empty components (shouldn't happen but protects against edge cases)
+        if sub.empty:
+            continue
+
         anchor_pan = next((p for p in sub["pan_norm"].tolist() if p), "")
         anchor_gst = next((g for g in sub["gstin_norm"].tolist() if g), "")
 
