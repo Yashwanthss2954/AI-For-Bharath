@@ -384,7 +384,6 @@ function App() {
           </table>
         </div>
       </section>
-      </section>
     </div>
   )
 }
